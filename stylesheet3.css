@@ -1,0 +1,22 @@
+header{
+  text-align: center;
+  color: #203556;
+  background-color: #afc3e1;
+}
+body{
+  text-align: left;
+  background-color: #afc3e1;
+  font-family: Garamond, serif;
+  color: #203556;
+  border: double 10px #5e87c4;
+}
+a{
+  color: #39609a;
+}
+hr{
+  color: #5e87c4;
+}
+footer{
+  background-color: #afc3e1;
+  color: #ead1e1;
+}
