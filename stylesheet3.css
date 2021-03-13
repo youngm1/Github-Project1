@@ -7,7 +7,7 @@ body{
   text-align: left;
   background-color: #ad5d5d;
   font-family: Garamond, serif;
-  color: #203556;
+  color: #582c2c;
   border: double 10px #5e87c4;
 }
 a{
@@ -18,5 +18,5 @@ hr{
 }
 footer{
   background-color: #ad5d5d;
-  color: #ead1e1;
+  color: #582c2c;
 }
