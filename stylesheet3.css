@@ -1,11 +1,11 @@
 header{
   text-align: center;
   color: #203556;
-  background-color: #afc3e1;
+  background-color: #ad5d5d;
 }
 body{
   text-align: left;
-  background-color: #afc3e1;
+  background-color: #ad5d5d;
   font-family: Garamond, serif;
   color: #203556;
   border: double 10px #5e87c4;
@@ -17,6 +17,6 @@ hr{
   color: #5e87c4;
 }
 footer{
-  background-color: #afc3e1;
+  background-color: #ad5d5d;
   color: #ead1e1;
 }
