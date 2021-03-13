@@ -1,0 +1,19 @@
+header{
+  text-align: center;
+  color: CadetBlue;
+  border: 2px solid MediumSlateBlue;
+  background-color: PowderBlue;
+}
+footer{
+  text-align: center;
+  color: CadetBlue;
+  border: 2px solid MediumSlateBlue;
+  background-color: PowderBlue;
+}
+*{
+  font-family: Tahoma;
+  background-color: LightCyan;
+}
+a{
+  color: MediumTurquoise;
+}
